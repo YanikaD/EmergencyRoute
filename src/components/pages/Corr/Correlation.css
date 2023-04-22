@@ -1,0 +1,25 @@
+.dorian{
+    width:60px;
+    margin-left: 0rem;
+    height: 100px;
+	background-size: 100%;
+    /* background-image: url('C:/Users/Mint/Documents/ForesightDRM/leaflet/src/components/pages/Corr/dorian201908-9.png'); */
+}
+
+html body div#root div.App div.container div.row div.card.mb-3 {
+    padding-left: 0;
+    margin-left: 10vw;
+    width: 80vw;
+}
+.carf-title{
+    font-family: "Montserrat";
+}
+.card-sub-title{
+    font-size: 1rem;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+.card-text{
+    font-size:0.85rem;
+    font-family: "Montserrat";
+}

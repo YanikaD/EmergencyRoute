@@ -1,0 +1,33 @@
+html body div#root div.App div.container div.row div.leaflet-container.leaflet-touch.leaflet-retina.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom div.leaflet-control-container div.leaflet-top.leaflet-right div.leaflet-routing-container.leaflet-bar.leaflet-routing-container-hide.leaflet-control div.leaflet-routing-alternatives-container{    
+    width: 300px;
+    height: 400px;
+    margin-left: 100px;
+    padding: 15px;
+    font-size: 20px;
+    background-color: white;
+  }
+  .leaflet-touch .leaflet-control-layers, .leaflet-touch .leaflet-bar {
+    /* border: 2px solid rgba(0,0,0,0.2); */
+    /* background-clip: padding-box; */
+  }
+  html body div#root div.App div.container div.row div.leaflet-container.leaflet-touch.leaflet-retina.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom div.leaflet-control-container div.leaflet-top.leaflet-right div.leaflet-routing-container.leaflet-bar.leaflet-routing-container-hide.leaflet-control div.leaflet-routing-alternatives-container div.leaflet-routing-alt h2 {
+    font-size: 15px;
+  }
+  html body div#root div.App div.container div.row div.leaflet-container.leaflet-touch.leaflet-retina.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom div.leaflet-control-container div.leaflet-top.leaflet-right div.leaflet-routing-container.leaflet-bar.leaflet-routing-container-hide.leaflet-control div.leaflet-routing-alternatives-container div.leaflet-routing-alt h3 {
+    font-size: 12px;
+  }
+  html body div#root div div.row div.leaflet-container.leaflet-touch.leaflet-retina.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom div.leaflet-control-container div.leaflet-top.leaflet-right div.leaflet-routing-container.leaflet-bar.leaflet-routing-container-hide.leaflet-control div.leaflet-routing-alternatives-container div.leaflet-routing-alt table tbody tr{    
+    font-size: 10px; 
+  }
+  html body div#root div div.row div.leaflet-container.leaflet-touch.leaflet-retina.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom div.leaflet-control-container div.leaflet-top.leaflet-right div.leaflet-routing-container.leaflet-bar.leaflet-routing-container-hide.leaflet-control div.leaflet-routing-alternatives-container div.leaflet-routing-alt table tbody td
+  .leaflet-routing-alt > h3:nth-child(2) {
+    font-size: calc(1rem );
+    font-weight: 600;
+  }
+  .h2, h2 {
+    font-size: calc(1.325rem);
+    font-weight: 700;
+  }
+  html body div#root div div.row div.leaflet-container.leaflet-touch.leaflet-retina.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom div.leaflet-control-container div.leaflet-top.leaflet-right div.leaflet-routing-container.leaflet-bar.leaflet-routing-container-hide.leaflet-control div.leaflet-routing-alternatives-container div.leaflet-routing-alt table tbody tr > td:nth-child(3){
+    width: 48px;
+  }
