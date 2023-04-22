@@ -1,4 +1,4 @@
-[embed][http://example.com/file.pdf](https://github.com/YanikaD/ForesightDRM/blob/main/Hackathon-DRM_solution.pdf)[/embed]
+[embed](https://github.com/YanikaD/ForesightDRM/blob/main/Hackathon-DRM_solution.pdf)[/embed]
 
 # Getting Started with Create React App
 
